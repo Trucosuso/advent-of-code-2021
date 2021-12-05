@@ -1,0 +1,6 @@
+{
+    "editor.tabSize": 2,
+    "clangd.fallbackFlags": [
+        "-std=c++20"
+    ]
+}

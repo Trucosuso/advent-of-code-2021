@@ -1,0 +1,1 @@
+Checks: 'clang-analyzer-*, cppcoreguidelines-*, readability-*, modernize-redundant-void-arg, modernize-deprecated-headers, modernize-pass-by-value'
