@@ -1,6 +1,8 @@
 option(BUILD_DAY_1 "Build day 1" OFF)
 option(BUILD_DAY_2 "Build day 2" OFF)
 
+add_subdirectory(helpers)
+
 # Day 1
 if(BUILD_DAY_1)
   message("Building day 1")
