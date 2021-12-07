@@ -63,7 +63,7 @@ main ()
 {
   std::string filePath = "data/day2.dat";
 
-  Submarine mySubmarine (0, 0);
+  Submarine mySubmarine;
 
   askForFilePathIfNeeded (filePath);
 
