@@ -1,0 +1,1 @@
+add_library(submarine submarine.cpp)
